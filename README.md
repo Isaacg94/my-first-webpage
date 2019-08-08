@@ -5,7 +5,7 @@
 This is my debut on the World Wide Web! A simple class project that i am undertaking at Moringa School that requires me to basically create my first webpage using basic HTML, create a repository on GitHub, commit regularly as well as push to the remote repository on GitHub.
 ## Setup/Installation Requirements
 * `git clone https://github.com/Isaacg94/my-first-webpage.git`
-* `cd hello-world`
+* `cd my-first-webpage`
 * `atom .`
 
 
