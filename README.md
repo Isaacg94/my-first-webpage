@@ -11,8 +11,9 @@ This is my debut on the World Wide Web! A simple class project that i am underta
 
 ## Technologies Used
 HTML
+CSS
 ## Support and contact details
 GitHub profile: [Isaac Gichuru](https://github.com/Isaacg94)
 ### License
 MIT License
-Copyright (c) 2019 **Moringa School**
+Copyright (c) 2019 **Isaac Gichuru**
